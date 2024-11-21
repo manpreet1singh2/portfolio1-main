@@ -1,0 +1,49 @@
+@media  (max-width:768px){
+
+.skill-mf{
+    padding: 2px 13px 26px 20px;
+}
+
+
+.about-info{
+    padding: 0px 10px 0px 10px;
+}
+
+
+.heading-section  p {  
+    padding: 10px 20px;
+}
+
+
+.one-third {
+    background-image: url(images/IMG_4221.JPG);
+    width: 350px;
+    height: 750px;
+    border: 0px !important;
+}
+
+
+.heading-section h2 {
+    font-size: 38px;
+    margin: auto;
+    text-align: center;
+}
+
+.heading-section h1.big {
+    left: 90px;
+    font-size: 19vw;
+  }
+
+.ftco-about .counter-wrap .text p {
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+.text {
+    margin: auto;
+    text-align: center;
+}
+
+
+}
